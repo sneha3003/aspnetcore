@@ -23,11 +23,11 @@ and make pull-requests.
 * [Build ASP.NET Core source code](./docs/BuildFromSource.md)
 * Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
 
-## Reporting security issues and bugs
+## Reporting Security Issues and Bugs
 
 Security issues and bugs should be reported privately, via email, to the Microsoft Security Response Center (MSRC)  secure@microsoft.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Further information, including the MSRC PGP key, can be found in the [Security TechCenter](https://technet.microsoft.com/en-us/security/ff852094.aspx).
 
-## Related projects
+## Related Projects
 
 These are some other repos for related projects:
 
@@ -35,6 +35,6 @@ These are some other repos for related projects:
 * [Entity Framework Core](https://github.com/dotnet/efcore) - data access technology
 * [Extensions](https://github.com/dotnet/extensions) - Logging, configuration, dependency injection, and more.
 
-## Code of conduct
+## Code of Conduct
 
 See [CODE-OF-CONDUCT](./CODE-OF-CONDUCT.md)
